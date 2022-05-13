@@ -4,7 +4,7 @@
 
 ## 项目简介：
 
-校园疫情防控管理信息系统分为前台部分和后台部分，面向岭南师范学院的学生和老师，旨在为学校提供一个有效防控校园出现疫情的综合性平台。本管理系统将通过健康打卡的功能实现后台管理系统对师生身体状况数据的收集。有了此系统，大大方便了学校疫情的防控工作，加大了学校疫情防控的力度，提高学校疫情防控的效率，尽最大地可能避免学校出现新冠肺炎疫情。借助此系统学校能更好地做好疫情防控措施。
+校园疫情防控管理信息系统分为前台部分和后台部分，面向学校的学生和老师，旨在为学校提供一个有效防控校园出现疫情的综合性平台。本管理系统将通过健康打卡的功能实现后台管理系统对师生身体状况数据的收集。有了此系统，大大方便了学校疫情的防控工作，加大了学校疫情防控的力度，提高学校疫情防控的效率，尽最大地可能避免学校出现新冠肺炎疫情。借助此系统学校能更好地做好疫情防控措施。
 
 
 ## 采用技术 ： 
@@ -92,33 +92,17 @@
 **前台部分展示：**  
 
 1. 前台首页面  
-![](https://img-blog.csdnimg.cn/20210317205831305.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-![](https://img-blog.csdnimg.cn/2021031720583081.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-![](https://img-blog.csdnimg.cn/20210317205829879.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-![](https://img-blog.csdnimg.cn/20210317205829742.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-![](https://img-blog.csdnimg.cn/20210317205829897.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-![](https://img-blog.csdnimg.cn/20210317205829894.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
 2. 登录页面(学生与教师的类似)  
-![](https://img-blog.csdnimg.cn/20210317205829941.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
 3. 打卡页面(学生与教师的类似)   
-![](https://img-blog.csdnimg.cn/2021031720583076.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
 4. 个人信息页面(学生与教师的类似)    
-![](https://img-blog.csdnimg.cn/20210317205829569.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-
 **后台部分展示：**  
 
 1. 后台首页  
-![](https://img-blog.csdnimg.cn/20210317205830135.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-2. 学生列表  
-![](https://img-blog.csdnimg.cn/20210317205830123.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-3. 教师列表  
-![](https://img-blog.csdnimg.cn/2021031720583091.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
+2. 学生列表 
+3. 教师列表
 4. 学生打卡信息列表  
-![](https://img-blog.csdnimg.cn/20210317205830115.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
-5. 老师打卡信息列表  
-![](https://img-blog.csdnimg.cn/20210317205830110.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
+5. 老师打卡信息列表
 6. 发布新闻  
-![](https://img-blog.csdnimg.cn/20210317205829345.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MzU0ODMxMA==,size_16,color_FFFFFF,t_70)
 
 
 ## 项目访问 :  
